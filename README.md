@@ -134,3 +134,4 @@
 - [付録A：主要参考文献・研究史解題](references/bibliography.md)
 - [付録B：一次史料抄](references/primary_sources.md)
 - [付録C：分析視座と理論マトリクス](references/research_matrix.md)
+- [付録D：文体・推敲ガイドライン（脱AI表現指針）](references/writing_style_guide.md)
