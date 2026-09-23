@@ -1,0 +1,13 @@
+{
+  "title": "作品タイトル",
+  "author": "koduki",
+  "description": "作品の概要説明",
+  "language": "ja",
+  "gitbook": ">=3.0.0",
+  "plugins": [
+    "-sharing"
+  ],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

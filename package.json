@@ -1,0 +1,15 @@
+{
+  "name": "historia",
+  "version": "1.0.0",
+  "description": "Multi-book repository for historical essays and myth studies",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-all.mjs",
+    "serve": "honkit serve",
+    "serve:yamato": "honkit serve books/yamato-roots",
+    "serve:thunder": "honkit serve books/genealogy-of-thunder"
+  },
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}

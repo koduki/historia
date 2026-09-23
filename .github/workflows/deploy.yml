@@ -27,8 +27,8 @@ jobs:
         with:
           node-version: 20
 
-      - name: Build book with HonKit
-        run: npx --yes honkit build
+      - name: Build all books
+        run: node scripts/build-all.mjs
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
